@@ -10,36 +10,22 @@ function ProjectCards() {
             <div className='cards_wrapper'>
                 <ul className='cards__items'>
                     <CardItem 
-                        src='images/img-9.jpg'
-                        text='Project with description'
-                        label='project1'
-                        path='/services'
+                        src='images/restaurantreview.jpg'
+                        text='Restaurant Review with Express and EJS'
+                        label='Restaurant Review'
+                        path='https://rocky-meadow-39048.herokuapp.com'
                     />
                     <CardItem 
-                        src='images/img-9.jpg'
-                        text='Project with description'
-                        label='project2'
-                        path='/services'
-                    />
-                </ul>
-                <ul className='cards__items'>
-                    <CardItem 
-                        src='images/img-9.jpg'
-                        text='Project with description That goes into detail about what it is and what code I have used'
-                        label='project3'
-                        path='/services'
+                        src='images/coffee-calling.png'
+                        text='E-Commerce-Site Made with Nuxt and Express'
+                        label='Coffee-Calling'
+                        path='https://coffee-e-commerce.herokuapp.com/'
                     />
                     <CardItem 
-                        src='images/img-9.jpg'
-                        text='Project with description'
-                        label='project4'
-                        path='/services'
-                    />
-                    <CardItem 
-                        src='images/img-9.jpg'
-                        text='Project with description'
-                        label='project4'
-                        path='/services'
+                        src='images/friendslink.png'
+                        text='Social Platfrom made with ASP Net Core and Angular'
+                        label='Friends-Link'
+                        path='https://friendslink.herokuapp.com/'
                     />
                 </ul>
             </div>

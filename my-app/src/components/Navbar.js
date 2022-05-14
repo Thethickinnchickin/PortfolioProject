@@ -3,10 +3,9 @@ import {Link} from 'react-router-dom';
 import './Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee, faBars, faTimes } from '@fortawesome/free-solid-svg-icons'
-import { Button } from './Button';
 
 function Navbar() {
-    const [button, setButton] = useState(true)
+    const [, setButton] = useState(true)
 
     const [click, setClick] = useState(false);
     const handleClick = () => setClick(!click)
