@@ -27,6 +27,13 @@ function ProjectCards() {
                         label='Friends-Link'
                         path='https://friendslink.herokuapp.com/'
                     />
+                    <CardItem 
+                        src='images/25231.png'
+                        text='Come Check out My GitHub'
+                        link='Here'
+                        path='https://github.com/Thethickinnchickin'
+                        label='GitHub'
+                    />
                 </ul>
             </div>
         </div>

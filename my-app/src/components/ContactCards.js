@@ -10,22 +10,32 @@ function ContactCards() {
             <div className='cards_wrapper'>
                 <ul className='cards__items'>
                     <CardItem 
-                        src='images/img-9.jpg'
-                        text='Contact me on upwork'
-                        label='project1'
-                        path='/services'
+                        src='images/download.png'
+                        text='Look at my Linked In'
+                        label='LinkedIn'
+                        link='https://www.linkedin.com/in/matt-reiley'
+
                     />
                     <CardItem 
-                        src='images/img-9.jpg'
-                        text='Contact Phone Number'
-                        label='project2'
-                        path='/services'
+                        src='images/Upwork-Symbol.png'
+                        text='Contact Me on Upwork'
+                        label='upwork'
+                        link='https://www.upwork.com/freelancers/~01159c4051952ad22c?viewMode=1'
+
                     />
                     <CardItem 
-                        src='images/img-9.jpg'
+                        src='images\Gmail.max-1100x1100.png'
                         text='Contact My Email'
-                        label='project2'
-                        path='/services'
+                        link='mattreileydeveloper@gmail.com'
+                        path='https://mail.google.com/'
+                        label='Email'
+                    />
+                    <CardItem 
+                        src='images/25231.png'
+                        text='Come Check out My GitHub'
+                        link='Here'
+                        path='https://github.com/Thethickinnchickin'
+                        label='GitHub'
                     />
                 </ul>
             </div>
