@@ -28,18 +28,17 @@ function ProjectCards() {
                         path='https://friendslink.herokuapp.com/'
                     />
                     <CardItem 
+                        src='images/workout.png'
+                        text='Workout App to Log Workout Data'
+                        path='https://calm-brushlands-65146.herokuapp.com/'
+                        label='League-Workout'
+                    />
+                    <CardItem 
                         src='images/25231.png'
                         text='Come Check out My GitHub'
                         link='Here'
                         path='https://github.com/Thethickinnchickin'
                         label='GitHub'
-                    />
-                    <CardItem 
-                        src='images/workout.png'
-                        text='Workout App to Log Workout Data'
-                        link='Here'
-                        path='https://github.com/Thethickinnchickin'
-                        label='League-Workout'
                     />
                 </ul>
             </div>
