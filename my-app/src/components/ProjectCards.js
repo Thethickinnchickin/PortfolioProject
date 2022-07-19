@@ -34,6 +34,13 @@ function ProjectCards() {
                         path='https://github.com/Thethickinnchickin'
                         label='GitHub'
                     />
+                    <CardItem 
+                        src='images/workout.png'
+                        text='Workout App to Log Workout Data'
+                        link='Here'
+                        path='https://github.com/Thethickinnchickin'
+                        label='League-Workout'
+                    />
                 </ul>
             </div>
         </div>
