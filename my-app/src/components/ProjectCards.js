@@ -29,7 +29,7 @@ function ProjectCards() {
                     />
                     <CardItem 
                         src='images/workout.png'
-                        text='Workout App to Log Workout Data'
+                        text='Workout App made with NuxtJs'
                         path='https://calm-brushlands-65146.herokuapp.com/'
                         label='League-Workout'
                     />
