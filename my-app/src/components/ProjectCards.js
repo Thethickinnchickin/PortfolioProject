@@ -22,11 +22,10 @@ function ProjectCards() {
                         label='League-Workout'
                     />
                     <CardItem 
-                        src='images/25231.png'
-                        text='Come Check out My GitHub'
-                        link='Here'
-                        path='https://github.com/Thethickinnchickin'
-                        label='GitHub'
+                        src='images/coffee-calling.png'
+                        text='E-Commerce-Site Made with Nuxt and Express'
+                        label='Coffee-Calling'
+                        path='https://coffee-e-commerce.herokuapp.com/'
                     />
                 </ul>
                 <ul className='cards__items'>
@@ -42,11 +41,13 @@ function ProjectCards() {
                         label='Restaurant Review'
                         path='https://rocky-meadow-39048.herokuapp.com'
                     />
+
                     <CardItem 
-                        src='images/coffee-calling.png'
-                        text='E-Commerce-Site Made with Nuxt and Express'
-                        label='Coffee-Calling'
-                        path='https://coffee-e-commerce.herokuapp.com/'
+                        src='images/25231.png'
+                        text='Come Check out My GitHub'
+                        link='Here'
+                        path='https://github.com/Thethickinnchickin'
+                        label='GitHub'
                     />
                 </ul>
             </div>
