@@ -32,7 +32,7 @@ function ProjectCards() {
                         src='images/sudoku.png'
                         text='Sudoku Solver made with python'
                         label='Sudoku Solver'
-                        path='https://reiley-calculatorr.herokuapp.com/'
+                        path='https://github.com/Thethickinnchickin/sudoku-solver'
                     />
                 </ul>
                 <ul className='cards__items'>
